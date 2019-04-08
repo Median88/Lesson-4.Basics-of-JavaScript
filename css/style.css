@@ -1,0 +1,20 @@
+TABLE {
+    width: auto;
+    border-collapse: collapse;
+}
+
+TD,
+TH {
+    padding: 10px;
+    border: 2px solid black;
+}
+
+TH {
+    background: #4aa455;
+}
+
+container {
+    display: block;
+    width: 1400px;
+    margin: 0 auto;
+}
